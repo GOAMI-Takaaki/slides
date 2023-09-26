@@ -21,7 +21,7 @@ class: middle
 
 ref. [GitHub Profile](https://github.com/GOAMI-Takaaki)
 
-.width100[![自己紹介](/slides/images/GOAMI-Takaaki.png)]
+.width100[![自己紹介](../shared/GOAMI-Takaaki.png)]
 
 ---
 
@@ -29,7 +29,7 @@ ref. [GitHub Profile](https://github.com/GOAMI-Takaaki)
 
 ref. [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere) [GitHub]
 
-.width100[![repo:codeceptjs-hotel-planisphere](/slides/images/20230927-try-codeceptjs/codeceptjs-hotel-planisphere.png)]
+.width100[![repo:codeceptjs-hotel-planisphere](codeceptjs-hotel-planisphere.png)]
 
 ---
 class: center, middle
