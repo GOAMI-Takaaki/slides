@@ -9,10 +9,10 @@
         <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript"></script>
         <script type="text/javascript">
           var query = window.location.search.substring(1);
-          var page = query ? query : "";
+          var page = query ? query : "index";
           
           var slideshow = remark.create({
-            sourceUrl: page + "/index.md"
+            sourceUrl: page + ".md"
           });
         </script>
       </body>
