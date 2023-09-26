@@ -3,17 +3,15 @@ class: center, middle
 # CodeceptJSにトライしてみた
 
 ---
+class: middle
 
 # Agenda
 
-## Introduction
-  
-[GitHub Profile](https://github.com/GOAMI-Takaaki)
+## 自己紹介: [GitHub Profile](https://github.com/GOAMI-Takaaki)
 
-## Contents
-
-[GitHub Repository: codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere)
+## 本題: [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere) [GitHub]
 
 ---
+class: center, middle
 
 # ご清聴ありがとうございました
