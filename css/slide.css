@@ -15,6 +15,6 @@ h1, h2, h3 {
 a, a > code {
   text-decoration: none;
 }
-.with100 {
+.width100 img {
     width: 100%;
 }
