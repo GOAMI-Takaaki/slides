@@ -32,16 +32,17 @@ ref. [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-
 .width100[![repo:codeceptjs-hotel-planisphere](./20230927-try-codeceptjs/codeceptjs-hotel-planisphere.png)]
 
 ---
-class: center, middle
 
 # 最後に
 
-以下のメンバー募集中です。
+メンバー募集中です。
 
 - CI/CD エンジニア
 - SET(System Engineer in Test)
 
 ※募集要項は[こちら](https://job.axol.jp/pm/c/works-hi/job/list)です。
+
+応募お待ちしています。
 
 ---
 class: center, middle
