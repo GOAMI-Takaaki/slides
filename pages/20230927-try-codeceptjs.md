@@ -47,4 +47,4 @@ ref. [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-
 ---
 class: center, middle
 
-# ご清聴ありがとうございました
+## ご清聴ありがとうございました。
