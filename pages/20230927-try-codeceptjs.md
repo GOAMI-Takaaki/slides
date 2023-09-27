@@ -36,6 +36,14 @@ class: center, middle
 
 # 最後に
 
-## ご清聴ありがとうございました
+以下のメンバー募集中です。
 
-※[メンバー募集中](https://job.axol.jp/pm/c/works-hi/job/list)です。
+- CI/CD 
+- SET(System Engineer in Test)
+
+※募集要項は[こちら](https://job.axol.jp/pm/c/works-hi/job/list)です。
+
+---
+class: center, middle
+
+# ご清聴ありがとうございました
