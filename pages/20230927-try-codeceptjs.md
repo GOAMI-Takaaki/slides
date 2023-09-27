@@ -38,7 +38,7 @@ class: center, middle
 
 以下のメンバー募集中です。
 
-- CI/CD 
+- CI/CD エンジニア
 - SET(System Engineer in Test)
 
 ※募集要項は[こちら](https://job.axol.jp/pm/c/works-hi/job/list)です。
